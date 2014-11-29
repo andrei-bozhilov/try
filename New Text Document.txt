@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdf
 sdffsd
 fsd
@@ -14,3 +15,8 @@ sdfsdf
 sdffsdsd
 fsddfsd
 fsdf
+=======
+xcv
+xcvvx
+cvxcv
+>>>>>>> master
